@@ -23,3 +23,36 @@
 </p>
 
 ---
+
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=DARK%20SAMURAI%20MD&fontSize=70&animation=fadeIn&fontAlignY=35&theme=dark" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=38&pause=400&color=FF0000&center=true&vCenter=true&width=500&height=80&lines=DARK+SAMURAI+MD+⚔️;SYSTEM+BREACHED...;THE+SILENT+WARRIOR+⚡" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://octodex.github.com/images/privateinvestocat.jpg" width="300" style="border-radius: 50%; border: 5px solid red;" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
+
+<div align="center">
+
+### 🕵️‍♂️ PROJECT INVESTIGATION UNDERWAY...
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&color=F70000&center=true&vCenter=true&width=435&lines=Detecting+Bugs...;Optimizing+Code...;Mission+Accomplished!)](https://git.io/typing-svg)
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SECURITY-MAXIMUM-red?style=for-the-badge&logo=spyderide" />
+  <img src="https://img.shields.io/badge/MODE-SAMURAI-black?style=for-the-badge&logo=probot" />
+</p>
