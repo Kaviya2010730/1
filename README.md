@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=red&height=100&section=header&text=%20&fontSize=90" width="100%" />
+  <img src="https://octodex.github.com/privateinvestocat/ type=venom&color=red&height=100&section=header&text=%20&fontSize=90" width="100%" />
 </p>
 
 <p align="center">
